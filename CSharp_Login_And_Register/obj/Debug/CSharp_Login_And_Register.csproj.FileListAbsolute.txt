@@ -1,0 +1,10 @@
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\obj\Debug\CSharp_Login_And_Register.csprojAssemblyReference.cache
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\obj\Debug\CSharp_Login_And_Register.LoginForm.resources
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\obj\Debug\CSharp_Login_And_Register.Properties.Resources.resources
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\obj\Debug\CSharp_Login_And_Register.csproj.GenerateResource.cache
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\obj\Debug\CSharp_Login_And_Register.csproj.CoreCompileInputs.cache
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\bin\Debug\CSharp_Login_And_Register.exe.config
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\bin\Debug\CSharp_Login_And_Register.exe
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\bin\Debug\CSharp_Login_And_Register.pdb
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\obj\Debug\CSharp_Login_And_Register.exe
+C:\Users\Armee\Documents\Csharp_Applications\Consoleapp-createAccount-login-database\CSharp_Login_And_Register\obj\Debug\CSharp_Login_And_Register.pdb
